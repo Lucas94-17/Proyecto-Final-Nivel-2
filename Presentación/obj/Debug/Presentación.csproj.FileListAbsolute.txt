@@ -1,0 +1,83 @@
+D:\Documentos(Importantes)\Curso Maxi Programa\Nueva carpeta\Curso-Csharp-MaxiPrograma\Segundo modulo\Tp-Final\TPFinalNivel2_ArteagaPonssa\Presentación\bin\Debug\Presentación.exe.config
+D:\Documentos(Importantes)\Curso Maxi Programa\Nueva carpeta\Curso-Csharp-MaxiPrograma\Segundo modulo\Tp-Final\TPFinalNivel2_ArteagaPonssa\Presentación\bin\Debug\Presentación.exe
+D:\Documentos(Importantes)\Curso Maxi Programa\Nueva carpeta\Curso-Csharp-MaxiPrograma\Segundo modulo\Tp-Final\TPFinalNivel2_ArteagaPonssa\Presentación\bin\Debug\Presentación.pdb
+D:\Documentos(Importantes)\Curso Maxi Programa\Nueva carpeta\Curso-Csharp-MaxiPrograma\Segundo modulo\Tp-Final\TPFinalNivel2_ArteagaPonssa\Presentación\bin\Debug\dominio.dll
+D:\Documentos(Importantes)\Curso Maxi Programa\Nueva carpeta\Curso-Csharp-MaxiPrograma\Segundo modulo\Tp-Final\TPFinalNivel2_ArteagaPonssa\Presentación\bin\Debug\negocios.dll
+D:\Documentos(Importantes)\Curso Maxi Programa\Nueva carpeta\Curso-Csharp-MaxiPrograma\Segundo modulo\Tp-Final\TPFinalNivel2_ArteagaPonssa\Presentación\bin\Debug\dominio.pdb
+D:\Documentos(Importantes)\Curso Maxi Programa\Nueva carpeta\Curso-Csharp-MaxiPrograma\Segundo modulo\Tp-Final\TPFinalNivel2_ArteagaPonssa\Presentación\bin\Debug\negocios.pdb
+D:\Documentos(Importantes)\Curso Maxi Programa\Nueva carpeta\Curso-Csharp-MaxiPrograma\Segundo modulo\Tp-Final\TPFinalNivel2_ArteagaPonssa\Presentación\obj\Debug\Presentación.csproj.AssemblyReference.cache
+D:\Documentos(Importantes)\Curso Maxi Programa\Nueva carpeta\Curso-Csharp-MaxiPrograma\Segundo modulo\Tp-Final\TPFinalNivel2_ArteagaPonssa\Presentación\obj\Debug\Presentación.Properties.Resources.resources
+D:\Documentos(Importantes)\Curso Maxi Programa\Nueva carpeta\Curso-Csharp-MaxiPrograma\Segundo modulo\Tp-Final\TPFinalNivel2_ArteagaPonssa\Presentación\obj\Debug\Presentación.csproj.GenerateResource.cache
+D:\Documentos(Importantes)\Curso Maxi Programa\Nueva carpeta\Curso-Csharp-MaxiPrograma\Segundo modulo\Tp-Final\TPFinalNivel2_ArteagaPonssa\Presentación\obj\Debug\Presentación.csproj.CoreCompileInputs.cache
+D:\Documentos(Importantes)\Curso Maxi Programa\Nueva carpeta\Curso-Csharp-MaxiPrograma\Segundo modulo\Tp-Final\TPFinalNivel2_ArteagaPonssa\Presentación\obj\Debug\Presentación.csproj.CopyComplete
+D:\Documentos(Importantes)\Curso Maxi Programa\Nueva carpeta\Curso-Csharp-MaxiPrograma\Segundo modulo\Tp-Final\TPFinalNivel2_ArteagaPonssa\Presentación\obj\Debug\Presentación.exe
+D:\Documentos(Importantes)\Curso Maxi Programa\Nueva carpeta\Curso-Csharp-MaxiPrograma\Segundo modulo\Tp-Final\TPFinalNivel2_ArteagaPonssa\Presentación\obj\Debug\Presentación.pdb
+D:\Documentos(Importantes)\Curso Maxi Programa\Nueva carpeta\Curso-Csharp-MaxiPrograma\Segundo modulo\Tp-Final\TPFinalNivel2_ArteagaPonssa\Presentación\obj\Debug\Presentación.VentanaPrincipal.resources
+D:\Documentos(Importantes)\Curso Maxi Programa\Nueva carpeta\Curso-Csharp-MaxiPrograma\Segundo modulo\Tp-Final\TPFinalNivel2_ArteagaPonssa\Presentación\obj\Debug\Presentación.AltaArticulo.resources
+D:\Documentos(Importantes)\Curso Maxi Programa\Nueva carpeta\Curso-Csharp-MaxiPrograma\Segundo modulo\Tp-Final\TPFinalNivel2_ArteagaPonssa(1)\SegundoProyectoCsharp\Presentación\bin\Debug\Presentación.exe.config
+D:\Documentos(Importantes)\Curso Maxi Programa\Nueva carpeta\Curso-Csharp-MaxiPrograma\Segundo modulo\Tp-Final\TPFinalNivel2_ArteagaPonssa(1)\SegundoProyectoCsharp\Presentación\bin\Debug\Presentación.exe
+D:\Documentos(Importantes)\Curso Maxi Programa\Nueva carpeta\Curso-Csharp-MaxiPrograma\Segundo modulo\Tp-Final\TPFinalNivel2_ArteagaPonssa(1)\SegundoProyectoCsharp\Presentación\bin\Debug\Presentación.pdb
+D:\Documentos(Importantes)\Curso Maxi Programa\Nueva carpeta\Curso-Csharp-MaxiPrograma\Segundo modulo\Tp-Final\TPFinalNivel2_ArteagaPonssa(1)\SegundoProyectoCsharp\Presentación\bin\Debug\dominio.dll
+D:\Documentos(Importantes)\Curso Maxi Programa\Nueva carpeta\Curso-Csharp-MaxiPrograma\Segundo modulo\Tp-Final\TPFinalNivel2_ArteagaPonssa(1)\SegundoProyectoCsharp\Presentación\bin\Debug\negocios.dll
+D:\Documentos(Importantes)\Curso Maxi Programa\Nueva carpeta\Curso-Csharp-MaxiPrograma\Segundo modulo\Tp-Final\TPFinalNivel2_ArteagaPonssa(1)\SegundoProyectoCsharp\Presentación\bin\Debug\dominio.pdb
+D:\Documentos(Importantes)\Curso Maxi Programa\Nueva carpeta\Curso-Csharp-MaxiPrograma\Segundo modulo\Tp-Final\TPFinalNivel2_ArteagaPonssa(1)\SegundoProyectoCsharp\Presentación\bin\Debug\negocios.pdb
+D:\Documentos(Importantes)\Curso Maxi Programa\Nueva carpeta\Curso-Csharp-MaxiPrograma\Segundo modulo\Tp-Final\TPFinalNivel2_ArteagaPonssa(1)\SegundoProyectoCsharp\Presentación\obj\Debug\Presentación.csproj.AssemblyReference.cache
+D:\Documentos(Importantes)\Curso Maxi Programa\Nueva carpeta\Curso-Csharp-MaxiPrograma\Segundo modulo\Tp-Final\TPFinalNivel2_ArteagaPonssa(1)\SegundoProyectoCsharp\Presentación\obj\Debug\Presentación.AltaArticulo.resources
+D:\Documentos(Importantes)\Curso Maxi Programa\Nueva carpeta\Curso-Csharp-MaxiPrograma\Segundo modulo\Tp-Final\TPFinalNivel2_ArteagaPonssa(1)\SegundoProyectoCsharp\Presentación\obj\Debug\Presentación.VentanaPrincipal.resources
+D:\Documentos(Importantes)\Curso Maxi Programa\Nueva carpeta\Curso-Csharp-MaxiPrograma\Segundo modulo\Tp-Final\TPFinalNivel2_ArteagaPonssa(1)\SegundoProyectoCsharp\Presentación\obj\Debug\Presentación.Properties.Resources.resources
+D:\Documentos(Importantes)\Curso Maxi Programa\Nueva carpeta\Curso-Csharp-MaxiPrograma\Segundo modulo\Tp-Final\TPFinalNivel2_ArteagaPonssa(1)\SegundoProyectoCsharp\Presentación\obj\Debug\Presentación.csproj.GenerateResource.cache
+D:\Documentos(Importantes)\Curso Maxi Programa\Nueva carpeta\Curso-Csharp-MaxiPrograma\Segundo modulo\Tp-Final\TPFinalNivel2_ArteagaPonssa(1)\SegundoProyectoCsharp\Presentación\obj\Debug\Presentación.csproj.CoreCompileInputs.cache
+D:\Documentos(Importantes)\Curso Maxi Programa\Nueva carpeta\Curso-Csharp-MaxiPrograma\Segundo modulo\Tp-Final\TPFinalNivel2_ArteagaPonssa(1)\SegundoProyectoCsharp\Presentación\obj\Debug\Presentación.csproj.CopyComplete
+D:\Documentos(Importantes)\Curso Maxi Programa\Nueva carpeta\Curso-Csharp-MaxiPrograma\Segundo modulo\Tp-Final\TPFinalNivel2_ArteagaPonssa(1)\SegundoProyectoCsharp\Presentación\obj\Debug\Presentación.exe
+D:\Documentos(Importantes)\Curso Maxi Programa\Nueva carpeta\Curso-Csharp-MaxiPrograma\Segundo modulo\Tp-Final\TPFinalNivel2_ArteagaPonssa(1)\SegundoProyectoCsharp\Presentación\obj\Debug\Presentación.pdb
+D:\Documentos(Importantes)\Curso Maxi Programa\Nueva carpeta\Curso-Csharp-MaxiPrograma\Segundo modulo\Tp-Final\TPFinalNivel2_ArteagaPonssa\SegundoProyectoCsharp\Presentación\obj\Debug\Presentación.csproj.AssemblyReference.cache
+D:\Documentos(Importantes)\Curso Maxi Programa\Nueva carpeta\Curso-Csharp-MaxiPrograma\Segundo modulo\Tp-Final\TPFinalNivel2_ArteagaPonssa\SegundoProyectoCsharp\Presentación\obj\Debug\Presentación.AltaArticulo.resources
+D:\Documentos(Importantes)\Curso Maxi Programa\Nueva carpeta\Curso-Csharp-MaxiPrograma\Segundo modulo\Tp-Final\TPFinalNivel2_ArteagaPonssa\SegundoProyectoCsharp\Presentación\obj\Debug\Presentación.VentanaPrincipal.resources
+D:\Documentos(Importantes)\Curso Maxi Programa\Nueva carpeta\Curso-Csharp-MaxiPrograma\Segundo modulo\Tp-Final\TPFinalNivel2_ArteagaPonssa\SegundoProyectoCsharp\Presentación\obj\Debug\Presentación.Properties.Resources.resources
+D:\Documentos(Importantes)\Curso Maxi Programa\Nueva carpeta\Curso-Csharp-MaxiPrograma\Segundo modulo\Tp-Final\TPFinalNivel2_ArteagaPonssa\SegundoProyectoCsharp\Presentación\obj\Debug\Presentación.csproj.GenerateResource.cache
+D:\Documentos(Importantes)\Curso Maxi Programa\Nueva carpeta\Curso-Csharp-MaxiPrograma\Segundo modulo\Tp-Final\TPFinalNivel2_ArteagaPonssa\SegundoProyectoCsharp\Presentación\obj\Debug\Presentación.csproj.CoreCompileInputs.cache
+D:\Documentos(Importantes)\Curso Maxi Programa\Nueva carpeta\Curso-Csharp-MaxiPrograma\Segundo modulo\Tp-Final\TPFinalNivel2_ArteagaPonssa\SegundoProyectoCsharp\Presentación\obj\Debug\Presentación.exe
+D:\Documentos(Importantes)\Curso Maxi Programa\Nueva carpeta\Curso-Csharp-MaxiPrograma\Segundo modulo\Tp-Final\TPFinalNivel2_ArteagaPonssa\SegundoProyectoCsharp\Presentación\obj\Debug\Presentación.pdb
+D:\Documentos(Importantes)\Curso Maxi Programa\Nueva carpeta\Curso-Csharp-MaxiPrograma\Segundo modulo\Tp-Final\TPFinalNivel2_ArteagaPonssa\SegundoProyectoCsharp\Presentación\bin\Debug\Presentación.exe.config
+D:\Documentos(Importantes)\Curso Maxi Programa\Nueva carpeta\Curso-Csharp-MaxiPrograma\Segundo modulo\Tp-Final\TPFinalNivel2_ArteagaPonssa\SegundoProyectoCsharp\Presentación\bin\Debug\Presentación.exe
+D:\Documentos(Importantes)\Curso Maxi Programa\Nueva carpeta\Curso-Csharp-MaxiPrograma\Segundo modulo\Tp-Final\TPFinalNivel2_ArteagaPonssa\SegundoProyectoCsharp\Presentación\bin\Debug\Presentación.pdb
+D:\Documentos(Importantes)\Curso Maxi Programa\Nueva carpeta\Curso-Csharp-MaxiPrograma\Segundo modulo\Tp-Final\TPFinalNivel2_ArteagaPonssa\SegundoProyectoCsharp\Presentación\bin\Debug\dominio.dll
+D:\Documentos(Importantes)\Curso Maxi Programa\Nueva carpeta\Curso-Csharp-MaxiPrograma\Segundo modulo\Tp-Final\TPFinalNivel2_ArteagaPonssa\SegundoProyectoCsharp\Presentación\bin\Debug\negocios.dll
+D:\Documentos(Importantes)\Curso Maxi Programa\Nueva carpeta\Curso-Csharp-MaxiPrograma\Segundo modulo\Tp-Final\TPFinalNivel2_ArteagaPonssa\SegundoProyectoCsharp\Presentación\bin\Debug\dominio.pdb
+D:\Documentos(Importantes)\Curso Maxi Programa\Nueva carpeta\Curso-Csharp-MaxiPrograma\Segundo modulo\Tp-Final\TPFinalNivel2_ArteagaPonssa\SegundoProyectoCsharp\Presentación\bin\Debug\negocios.pdb
+D:\Documentos(Importantes)\Curso Maxi Programa\Nueva carpeta\Curso-Csharp-MaxiPrograma\Segundo modulo\Tp-Final\TPFinalNivel2_ArteagaPonssa\SegundoProyectoCsharp\Presentación\obj\Debug\Presentación.csproj.CopyComplete
+D:\Documentos(Importantes)\Curso Maxi Programa\Nueva carpeta\Curso-Csharp-MaxiPrograma\Segundo modulo\Tp-Final\TPFinalNivel2_ArteagaPonssa\SegundoProyectoCsharp\Presentación\obj\Debug\Presentación.DetallesArticulo.resources
+D:\Documentos(Importantes)\Curso Maxi Programa\Curso Maxi\Curso-Csharp-MaxiPrograma\Segundo modulo\Tp-Final\TPFinalNivel2_ArteagaPonssa\SegundoProyectoCsharp\Presentación\bin\Debug\Presentación.exe.config
+D:\Documentos(Importantes)\Curso Maxi Programa\Curso Maxi\Curso-Csharp-MaxiPrograma\Segundo modulo\Tp-Final\TPFinalNivel2_ArteagaPonssa\SegundoProyectoCsharp\Presentación\bin\Debug\Presentación.exe
+D:\Documentos(Importantes)\Curso Maxi Programa\Curso Maxi\Curso-Csharp-MaxiPrograma\Segundo modulo\Tp-Final\TPFinalNivel2_ArteagaPonssa\SegundoProyectoCsharp\Presentación\bin\Debug\Presentación.pdb
+D:\Documentos(Importantes)\Curso Maxi Programa\Curso Maxi\Curso-Csharp-MaxiPrograma\Segundo modulo\Tp-Final\TPFinalNivel2_ArteagaPonssa\SegundoProyectoCsharp\Presentación\bin\Debug\dominio.dll
+D:\Documentos(Importantes)\Curso Maxi Programa\Curso Maxi\Curso-Csharp-MaxiPrograma\Segundo modulo\Tp-Final\TPFinalNivel2_ArteagaPonssa\SegundoProyectoCsharp\Presentación\bin\Debug\negocios.dll
+D:\Documentos(Importantes)\Curso Maxi Programa\Curso Maxi\Curso-Csharp-MaxiPrograma\Segundo modulo\Tp-Final\TPFinalNivel2_ArteagaPonssa\SegundoProyectoCsharp\Presentación\bin\Debug\dominio.pdb
+D:\Documentos(Importantes)\Curso Maxi Programa\Curso Maxi\Curso-Csharp-MaxiPrograma\Segundo modulo\Tp-Final\TPFinalNivel2_ArteagaPonssa\SegundoProyectoCsharp\Presentación\bin\Debug\negocios.pdb
+D:\Documentos(Importantes)\Curso Maxi Programa\Curso Maxi\Curso-Csharp-MaxiPrograma\Segundo modulo\Tp-Final\TPFinalNivel2_ArteagaPonssa\SegundoProyectoCsharp\Presentación\obj\Debug\Presentación.csproj.AssemblyReference.cache
+D:\Documentos(Importantes)\Curso Maxi Programa\Curso Maxi\Curso-Csharp-MaxiPrograma\Segundo modulo\Tp-Final\TPFinalNivel2_ArteagaPonssa\SegundoProyectoCsharp\Presentación\obj\Debug\Presentación.AltaArticulo.resources
+D:\Documentos(Importantes)\Curso Maxi Programa\Curso Maxi\Curso-Csharp-MaxiPrograma\Segundo modulo\Tp-Final\TPFinalNivel2_ArteagaPonssa\SegundoProyectoCsharp\Presentación\obj\Debug\Presentación.DetallesArticulo.resources
+D:\Documentos(Importantes)\Curso Maxi Programa\Curso Maxi\Curso-Csharp-MaxiPrograma\Segundo modulo\Tp-Final\TPFinalNivel2_ArteagaPonssa\SegundoProyectoCsharp\Presentación\obj\Debug\Presentación.VentanaPrincipal.resources
+D:\Documentos(Importantes)\Curso Maxi Programa\Curso Maxi\Curso-Csharp-MaxiPrograma\Segundo modulo\Tp-Final\TPFinalNivel2_ArteagaPonssa\SegundoProyectoCsharp\Presentación\obj\Debug\Presentación.Properties.Resources.resources
+D:\Documentos(Importantes)\Curso Maxi Programa\Curso Maxi\Curso-Csharp-MaxiPrograma\Segundo modulo\Tp-Final\TPFinalNivel2_ArteagaPonssa\SegundoProyectoCsharp\Presentación\obj\Debug\Presentación.csproj.GenerateResource.cache
+D:\Documentos(Importantes)\Curso Maxi Programa\Curso Maxi\Curso-Csharp-MaxiPrograma\Segundo modulo\Tp-Final\TPFinalNivel2_ArteagaPonssa\SegundoProyectoCsharp\Presentación\obj\Debug\Presentación.csproj.CoreCompileInputs.cache
+D:\Documentos(Importantes)\Curso Maxi Programa\Curso Maxi\Curso-Csharp-MaxiPrograma\Segundo modulo\Tp-Final\TPFinalNivel2_ArteagaPonssa\SegundoProyectoCsharp\Presentación\obj\Debug\Presentación.csproj.CopyComplete
+D:\Documentos(Importantes)\Curso Maxi Programa\Curso Maxi\Curso-Csharp-MaxiPrograma\Segundo modulo\Tp-Final\TPFinalNivel2_ArteagaPonssa\SegundoProyectoCsharp\Presentación\obj\Debug\Presentación.exe
+D:\Documentos(Importantes)\Curso Maxi Programa\Curso Maxi\Curso-Csharp-MaxiPrograma\Segundo modulo\Tp-Final\TPFinalNivel2_ArteagaPonssa\SegundoProyectoCsharp\Presentación\obj\Debug\Presentación.pdb
+D:\asd\Curso-Csharp-MaxiPrograma\Segundo modulo\Tp-Final\TPFinalNivel2_ArteagaPonssa\SegundoProyectoCsharp\Presentación\obj\Debug\Presentación.csproj.AssemblyReference.cache
+D:\asd\Curso-Csharp-MaxiPrograma\Segundo modulo\Tp-Final\TPFinalNivel2_ArteagaPonssa\SegundoProyectoCsharp\Presentación\obj\Debug\Presentación.AltaArticulo.resources
+D:\asd\Curso-Csharp-MaxiPrograma\Segundo modulo\Tp-Final\TPFinalNivel2_ArteagaPonssa\SegundoProyectoCsharp\Presentación\obj\Debug\Presentación.DetallesArticulo.resources
+D:\asd\Curso-Csharp-MaxiPrograma\Segundo modulo\Tp-Final\TPFinalNivel2_ArteagaPonssa\SegundoProyectoCsharp\Presentación\obj\Debug\Presentación.Properties.Resources.resources
+D:\asd\Curso-Csharp-MaxiPrograma\Segundo modulo\Tp-Final\TPFinalNivel2_ArteagaPonssa\SegundoProyectoCsharp\Presentación\obj\Debug\Presentación.csproj.GenerateResource.cache
+D:\asd\Curso-Csharp-MaxiPrograma\Segundo modulo\Tp-Final\TPFinalNivel2_ArteagaPonssa\SegundoProyectoCsharp\Presentación\bin\Debug\Presentación.exe.config
+D:\asd\Curso-Csharp-MaxiPrograma\Segundo modulo\Tp-Final\TPFinalNivel2_ArteagaPonssa\SegundoProyectoCsharp\Presentación\bin\Debug\Presentación.exe
+D:\asd\Curso-Csharp-MaxiPrograma\Segundo modulo\Tp-Final\TPFinalNivel2_ArteagaPonssa\SegundoProyectoCsharp\Presentación\bin\Debug\Presentación.pdb
+D:\asd\Curso-Csharp-MaxiPrograma\Segundo modulo\Tp-Final\TPFinalNivel2_ArteagaPonssa\SegundoProyectoCsharp\Presentación\bin\Debug\dominio.dll
+D:\asd\Curso-Csharp-MaxiPrograma\Segundo modulo\Tp-Final\TPFinalNivel2_ArteagaPonssa\SegundoProyectoCsharp\Presentación\bin\Debug\negocios.dll
+D:\asd\Curso-Csharp-MaxiPrograma\Segundo modulo\Tp-Final\TPFinalNivel2_ArteagaPonssa\SegundoProyectoCsharp\Presentación\bin\Debug\dominio.pdb
+D:\asd\Curso-Csharp-MaxiPrograma\Segundo modulo\Tp-Final\TPFinalNivel2_ArteagaPonssa\SegundoProyectoCsharp\Presentación\bin\Debug\negocios.pdb
+D:\asd\Curso-Csharp-MaxiPrograma\Segundo modulo\Tp-Final\TPFinalNivel2_ArteagaPonssa\SegundoProyectoCsharp\Presentación\obj\Debug\Presentación.VentanaPrincipal.resources
+D:\asd\Curso-Csharp-MaxiPrograma\Segundo modulo\Tp-Final\TPFinalNivel2_ArteagaPonssa\SegundoProyectoCsharp\Presentación\obj\Debug\Presentación.csproj.CoreCompileInputs.cache
+D:\asd\Curso-Csharp-MaxiPrograma\Segundo modulo\Tp-Final\TPFinalNivel2_ArteagaPonssa\SegundoProyectoCsharp\Presentación\obj\Debug\Presenta.9A477869.Up2Date
+D:\asd\Curso-Csharp-MaxiPrograma\Segundo modulo\Tp-Final\TPFinalNivel2_ArteagaPonssa\SegundoProyectoCsharp\Presentación\obj\Debug\Presentación.exe
+D:\asd\Curso-Csharp-MaxiPrograma\Segundo modulo\Tp-Final\TPFinalNivel2_ArteagaPonssa\SegundoProyectoCsharp\Presentación\obj\Debug\Presentación.pdb

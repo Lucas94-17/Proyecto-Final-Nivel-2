@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\asd\\Curso-Csharp-MaxiPrograma\\Segundo modulo\\Tp-Final\\TPFinalNivel2_ArteagaPonssa\\SegundoProyectoCsharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25E8D86C-632A-47BF-AD8C-32B93CAB5038}|Presentaci\u00F3n\\Presentaci\u00F3n.csproj|d:\\asd\\curso-csharp-maxiprograma\\segundo modulo\\tp-final\\tpfinalnivel2_arteagaponssa\\segundoproyectocsharp\\presentaci\u00F3n\\altaarticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25E8D86C-632A-47BF-AD8C-32B93CAB5038}|Presentaci\u00F3n\\Presentaci\u00F3n.csproj|solutionrelative:presentaci\u00F3n\\altaarticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25E8D86C-632A-47BF-AD8C-32B93CAB5038}|Presentaci\u00F3n\\Presentaci\u00F3n.csproj|D:\\asd\\Curso-Csharp-MaxiPrograma\\Segundo modulo\\Tp-Final\\TPFinalNivel2_ArteagaPonssa\\SegundoProyectoCsharp\\presentaci\u00F3n\\ventanaprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{25E8D86C-632A-47BF-AD8C-32B93CAB5038}|Presentaci\u00F3n\\Presentaci\u00F3n.csproj|solutionrelative:presentaci\u00F3n\\ventanaprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25E8D86C-632A-47BF-AD8C-32B93CAB5038}|Presentaci\u00F3n\\Presentaci\u00F3n.csproj|D:\\asd\\Curso-Csharp-MaxiPrograma\\Segundo modulo\\Tp-Final\\TPFinalNivel2_ArteagaPonssa\\SegundoProyectoCsharp\\presentaci\u00F3n\\ventanaprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25E8D86C-632A-47BF-AD8C-32B93CAB5038}|Presentaci\u00F3n\\Presentaci\u00F3n.csproj|solutionrelative:presentaci\u00F3n\\ventanaprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C6271B6-2D97-4CD8-87BD-6A675A5A4C81}|negocios\\negocios.csproj|D:\\asd\\Curso-Csharp-MaxiPrograma\\Segundo modulo\\Tp-Final\\TPFinalNivel2_ArteagaPonssa\\SegundoProyectoCsharp\\negocios\\articulonegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C6271B6-2D97-4CD8-87BD-6A675A5A4C81}|negocios\\negocios.csproj|solutionrelative:negocios\\articulonegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25E8D86C-632A-47BF-AD8C-32B93CAB5038}|Presentaci\u00F3n\\Presentaci\u00F3n.csproj|D:\\asd\\Curso-Csharp-MaxiPrograma\\Segundo modulo\\Tp-Final\\TPFinalNivel2_ArteagaPonssa\\SegundoProyectoCsharp\\presentaci\u00F3n\\detallesarticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25E8D86C-632A-47BF-AD8C-32B93CAB5038}|Presentaci\u00F3n\\Presentaci\u00F3n.csproj|solutionrelative:presentaci\u00F3n\\detallesarticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25E8D86C-632A-47BF-AD8C-32B93CAB5038}|Presentaci\u00F3n\\Presentaci\u00F3n.csproj|D:\\asd\\Curso-Csharp-MaxiPrograma\\Segundo modulo\\Tp-Final\\TPFinalNivel2_ArteagaPonssa\\SegundoProyectoCsharp\\presentaci\u00F3n\\altaarticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{25E8D86C-632A-47BF-AD8C-32B93CAB5038}|Presentaci\u00F3n\\Presentaci\u00F3n.csproj|solutionrelative:presentaci\u00F3n\\altaarticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DetallesArticulo.cs",
+              "DocumentMoniker": "D:\\asd\\Curso-Csharp-MaxiPrograma\\Segundo modulo\\Tp-Final\\TPFinalNivel2_ArteagaPonssa\\SegundoProyectoCsharp\\Presentaci\u00F3n\\DetallesArticulo.cs",
+              "RelativeDocumentMoniker": "Presentaci\u00F3n\\DetallesArticulo.cs",
+              "ToolTip": "D:\\asd\\Curso-Csharp-MaxiPrograma\\Segundo modulo\\Tp-Final\\TPFinalNivel2_ArteagaPonssa\\SegundoProyectoCsharp\\Presentaci\u00F3n\\DetallesArticulo.cs",
+              "RelativeToolTip": "Presentaci\u00F3n\\DetallesArticulo.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T03:52:59.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AltaArticulo.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\asd\\Curso-Csharp-MaxiPrograma\\Segundo modulo\\Tp-Final\\TPFinalNivel2_ArteagaPonssa\\SegundoProyectoCsharp\\Presentaci\u00F3n\\AltaArticulo.cs",
+              "RelativeDocumentMoniker": "Presentaci\u00F3n\\AltaArticulo.cs",
+              "ToolTip": "D:\\asd\\Curso-Csharp-MaxiPrograma\\Segundo modulo\\Tp-Final\\TPFinalNivel2_ArteagaPonssa\\SegundoProyectoCsharp\\Presentaci\u00F3n\\AltaArticulo.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Presentaci\u00F3n\\AltaArticulo.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T00:58:26.415Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VentanaPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\asd\\Curso-Csharp-MaxiPrograma\\Segundo modulo\\Tp-Final\\TPFinalNivel2_ArteagaPonssa\\SegundoProyectoCsharp\\Presentaci\u00F3n\\VentanaPrincipal.cs",
+              "RelativeDocumentMoniker": "Presentaci\u00F3n\\VentanaPrincipal.cs",
+              "ToolTip": "D:\\asd\\Curso-Csharp-MaxiPrograma\\Segundo modulo\\Tp-Final\\TPFinalNivel2_ArteagaPonssa\\SegundoProyectoCsharp\\Presentaci\u00F3n\\VentanaPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Presentaci\u00F3n\\VentanaPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T01:40:12.36Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ArticuloNegocio.cs",
+              "DocumentMoniker": "D:\\asd\\Curso-Csharp-MaxiPrograma\\Segundo modulo\\Tp-Final\\TPFinalNivel2_ArteagaPonssa\\SegundoProyectoCsharp\\negocios\\ArticuloNegocio.cs",
+              "RelativeDocumentMoniker": "negocios\\ArticuloNegocio.cs",
+              "ToolTip": "D:\\asd\\Curso-Csharp-MaxiPrograma\\Segundo modulo\\Tp-Final\\TPFinalNivel2_ArteagaPonssa\\SegundoProyectoCsharp\\negocios\\ArticuloNegocio.cs",
+              "RelativeToolTip": "negocios\\ArticuloNegocio.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAgwBgAAAC0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-11T20:54:16.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VentanaPrincipal.cs",
+              "DocumentMoniker": "D:\\asd\\Curso-Csharp-MaxiPrograma\\Segundo modulo\\Tp-Final\\TPFinalNivel2_ArteagaPonssa\\SegundoProyectoCsharp\\Presentaci\u00F3n\\VentanaPrincipal.cs",
+              "RelativeDocumentMoniker": "Presentaci\u00F3n\\VentanaPrincipal.cs",
+              "ToolTip": "D:\\asd\\Curso-Csharp-MaxiPrograma\\Segundo modulo\\Tp-Final\\TPFinalNivel2_ArteagaPonssa\\SegundoProyectoCsharp\\Presentaci\u00F3n\\VentanaPrincipal.cs",
+              "RelativeToolTip": "Presentaci\u00F3n\\VentanaPrincipal.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAKYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T22:53:58.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AltaArticulo.cs",
+              "DocumentMoniker": "D:\\asd\\Curso-Csharp-MaxiPrograma\\Segundo modulo\\Tp-Final\\TPFinalNivel2_ArteagaPonssa\\SegundoProyectoCsharp\\Presentaci\u00F3n\\AltaArticulo.cs",
+              "RelativeDocumentMoniker": "Presentaci\u00F3n\\AltaArticulo.cs",
+              "ToolTip": "D:\\asd\\Curso-Csharp-MaxiPrograma\\Segundo modulo\\Tp-Final\\TPFinalNivel2_ArteagaPonssa\\SegundoProyectoCsharp\\Presentaci\u00F3n\\AltaArticulo.cs",
+              "RelativeToolTip": "Presentaci\u00F3n\\AltaArticulo.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAswDkAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T01:10:59.161Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+D:\Documentos(Importantes)\Curso Maxi Programa\Nueva carpeta\Curso-Csharp-MaxiPrograma\Segundo modulo\Tp-Final\TPFinalNivel2_ArteagaPonssa\dominio\bin\Debug\dominio.dll
+D:\Documentos(Importantes)\Curso Maxi Programa\Nueva carpeta\Curso-Csharp-MaxiPrograma\Segundo modulo\Tp-Final\TPFinalNivel2_ArteagaPonssa\dominio\bin\Debug\dominio.pdb
+D:\Documentos(Importantes)\Curso Maxi Programa\Nueva carpeta\Curso-Csharp-MaxiPrograma\Segundo modulo\Tp-Final\TPFinalNivel2_ArteagaPonssa\dominio\obj\Debug\dominio.csproj.AssemblyReference.cache
+D:\Documentos(Importantes)\Curso Maxi Programa\Nueva carpeta\Curso-Csharp-MaxiPrograma\Segundo modulo\Tp-Final\TPFinalNivel2_ArteagaPonssa\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
+D:\Documentos(Importantes)\Curso Maxi Programa\Nueva carpeta\Curso-Csharp-MaxiPrograma\Segundo modulo\Tp-Final\TPFinalNivel2_ArteagaPonssa\dominio\obj\Debug\dominio.dll
+D:\Documentos(Importantes)\Curso Maxi Programa\Nueva carpeta\Curso-Csharp-MaxiPrograma\Segundo modulo\Tp-Final\TPFinalNivel2_ArteagaPonssa\dominio\obj\Debug\dominio.pdb
+D:\Documentos(Importantes)\Curso Maxi Programa\Nueva carpeta\Curso-Csharp-MaxiPrograma\Segundo modulo\Tp-Final\TPFinalNivel2_ArteagaPonssa(1)\SegundoProyectoCsharp\dominio\bin\Debug\dominio.dll
+D:\Documentos(Importantes)\Curso Maxi Programa\Nueva carpeta\Curso-Csharp-MaxiPrograma\Segundo modulo\Tp-Final\TPFinalNivel2_ArteagaPonssa(1)\SegundoProyectoCsharp\dominio\bin\Debug\dominio.pdb
+D:\Documentos(Importantes)\Curso Maxi Programa\Nueva carpeta\Curso-Csharp-MaxiPrograma\Segundo modulo\Tp-Final\TPFinalNivel2_ArteagaPonssa(1)\SegundoProyectoCsharp\dominio\obj\Debug\dominio.csproj.AssemblyReference.cache
+D:\Documentos(Importantes)\Curso Maxi Programa\Nueva carpeta\Curso-Csharp-MaxiPrograma\Segundo modulo\Tp-Final\TPFinalNivel2_ArteagaPonssa(1)\SegundoProyectoCsharp\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
+D:\Documentos(Importantes)\Curso Maxi Programa\Nueva carpeta\Curso-Csharp-MaxiPrograma\Segundo modulo\Tp-Final\TPFinalNivel2_ArteagaPonssa(1)\SegundoProyectoCsharp\dominio\obj\Debug\dominio.dll
+D:\Documentos(Importantes)\Curso Maxi Programa\Nueva carpeta\Curso-Csharp-MaxiPrograma\Segundo modulo\Tp-Final\TPFinalNivel2_ArteagaPonssa(1)\SegundoProyectoCsharp\dominio\obj\Debug\dominio.pdb
+D:\Documentos(Importantes)\Curso Maxi Programa\Nueva carpeta\Curso-Csharp-MaxiPrograma\Segundo modulo\Tp-Final\TPFinalNivel2_ArteagaPonssa\SegundoProyectoCsharp\dominio\bin\Debug\dominio.dll
+D:\Documentos(Importantes)\Curso Maxi Programa\Nueva carpeta\Curso-Csharp-MaxiPrograma\Segundo modulo\Tp-Final\TPFinalNivel2_ArteagaPonssa\SegundoProyectoCsharp\dominio\bin\Debug\dominio.pdb
+D:\Documentos(Importantes)\Curso Maxi Programa\Nueva carpeta\Curso-Csharp-MaxiPrograma\Segundo modulo\Tp-Final\TPFinalNivel2_ArteagaPonssa\SegundoProyectoCsharp\dominio\obj\Debug\dominio.csproj.AssemblyReference.cache
+D:\Documentos(Importantes)\Curso Maxi Programa\Nueva carpeta\Curso-Csharp-MaxiPrograma\Segundo modulo\Tp-Final\TPFinalNivel2_ArteagaPonssa\SegundoProyectoCsharp\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
+D:\Documentos(Importantes)\Curso Maxi Programa\Nueva carpeta\Curso-Csharp-MaxiPrograma\Segundo modulo\Tp-Final\TPFinalNivel2_ArteagaPonssa\SegundoProyectoCsharp\dominio\obj\Debug\dominio.dll
+D:\Documentos(Importantes)\Curso Maxi Programa\Nueva carpeta\Curso-Csharp-MaxiPrograma\Segundo modulo\Tp-Final\TPFinalNivel2_ArteagaPonssa\SegundoProyectoCsharp\dominio\obj\Debug\dominio.pdb
+D:\Documentos(Importantes)\Curso Maxi Programa\Curso Maxi\Curso-Csharp-MaxiPrograma\Segundo modulo\Tp-Final\TPFinalNivel2_ArteagaPonssa\SegundoProyectoCsharp\dominio\bin\Debug\dominio.dll
+D:\Documentos(Importantes)\Curso Maxi Programa\Curso Maxi\Curso-Csharp-MaxiPrograma\Segundo modulo\Tp-Final\TPFinalNivel2_ArteagaPonssa\SegundoProyectoCsharp\dominio\bin\Debug\dominio.pdb
+D:\Documentos(Importantes)\Curso Maxi Programa\Curso Maxi\Curso-Csharp-MaxiPrograma\Segundo modulo\Tp-Final\TPFinalNivel2_ArteagaPonssa\SegundoProyectoCsharp\dominio\obj\Debug\dominio.csproj.AssemblyReference.cache
+D:\Documentos(Importantes)\Curso Maxi Programa\Curso Maxi\Curso-Csharp-MaxiPrograma\Segundo modulo\Tp-Final\TPFinalNivel2_ArteagaPonssa\SegundoProyectoCsharp\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
+D:\Documentos(Importantes)\Curso Maxi Programa\Curso Maxi\Curso-Csharp-MaxiPrograma\Segundo modulo\Tp-Final\TPFinalNivel2_ArteagaPonssa\SegundoProyectoCsharp\dominio\obj\Debug\dominio.dll
+D:\Documentos(Importantes)\Curso Maxi Programa\Curso Maxi\Curso-Csharp-MaxiPrograma\Segundo modulo\Tp-Final\TPFinalNivel2_ArteagaPonssa\SegundoProyectoCsharp\dominio\obj\Debug\dominio.pdb
+D:\asd\Curso-Csharp-MaxiPrograma\Segundo modulo\Tp-Final\TPFinalNivel2_ArteagaPonssa\SegundoProyectoCsharp\dominio\bin\Debug\dominio.dll
+D:\asd\Curso-Csharp-MaxiPrograma\Segundo modulo\Tp-Final\TPFinalNivel2_ArteagaPonssa\SegundoProyectoCsharp\dominio\bin\Debug\dominio.pdb
+D:\asd\Curso-Csharp-MaxiPrograma\Segundo modulo\Tp-Final\TPFinalNivel2_ArteagaPonssa\SegundoProyectoCsharp\dominio\obj\Debug\dominio.csproj.AssemblyReference.cache
+D:\asd\Curso-Csharp-MaxiPrograma\Segundo modulo\Tp-Final\TPFinalNivel2_ArteagaPonssa\SegundoProyectoCsharp\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
+D:\asd\Curso-Csharp-MaxiPrograma\Segundo modulo\Tp-Final\TPFinalNivel2_ArteagaPonssa\SegundoProyectoCsharp\dominio\obj\Debug\dominio.dll
+D:\asd\Curso-Csharp-MaxiPrograma\Segundo modulo\Tp-Final\TPFinalNivel2_ArteagaPonssa\SegundoProyectoCsharp\dominio\obj\Debug\dominio.pdb
